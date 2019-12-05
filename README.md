@@ -1,4 +1,3 @@
-#pySerial 
 
 blinkLED.py is used to talk between python and an arduino.
 
